@@ -16,14 +16,14 @@ Usage :
 - paste shellcode.bin in same folder with aes.py and execute ```python3 aes.py``` it will generate keys and encrypted file. Replace keys in source code.
 - Build Exe ``` go build``` build Dll ```go build -buildmode=c-shared -o MistLdr.dll``` i did also used garble to produce obfuscated Dll or EXE ```garble build -buildmode=c-shared -o MistLdr.dll```
 
-Sophos XDR
-![]([https://github.com/ZwNagi/MistLdr/blob/main/assets/mistldr.png?raw=true))
+Sophos XDR:
+![](https://raw.githubusercontent.com/ZwNagi/MistLdr/refs/heads/main/assets/mistldr.png)
 
-TrendMicro ApexOne
-![]([https://github.com/ZwNagi/MistLdr/blob/main/assets/apexone.png?raw=true))
+TrendMicro ApexOne:
+![](https://raw.githubusercontent.com/ZwNagi/MistLdr/refs/heads/main/assets/apexone.png)
 
-McAfee MVISION
-![]([https://github.com/ZwNagi/MistLdr/blob/main/assets/mvision.png?raw=true))
+McAfee
+![](https://raw.githubusercontent.com/ZwNagi/MistLdr/refs/heads/main/assets/mvision.png)
 
 #Credit & Refs:
-- https://github.com/f1zm0/acheron
+https://github.com/f1zm0/acheron
