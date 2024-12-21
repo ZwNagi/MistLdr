@@ -22,7 +22,7 @@ Sophos XDR:
 TrendMicro ApexOne:
 ![](https://raw.githubusercontent.com/ZwNagi/MistLdr/refs/heads/main/assets/apexone.png)
 
-McAfee
+McAfee MVISION:
 ![](https://raw.githubusercontent.com/ZwNagi/MistLdr/refs/heads/main/assets/mvision.png)
 
 #Credit & Refs:
