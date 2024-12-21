@@ -7,7 +7,7 @@ Evasive AV/EDR Shellcode Loader In GO
 
 - Dynamically Shellcode Retrieving.
 
-#Acheron Features:
+Acheron Features:
 1) Walk the PEB to retrieve the base address of in-memory ntdll.dll
 2) Parse the exports directory to retrieve the address of each exported function
 3) Calculate the system service number for each Zw* function
