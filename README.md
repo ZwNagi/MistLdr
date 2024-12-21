@@ -1,9 +1,11 @@
 # MistLdr
 Evasive AV/EDR Shellcode Loader In GO
 
-All the NtApi calls are made using indirect syscalls using Acheron.
-AES Encrypted Shellcode.
-Dynamically Shellcode Retrieving
+- All the NtApi calls are made using indirect syscalls using Acheron.
+
+- AES Encrypted Shellcode.
+
+- Dynamically Shellcode Retrieving.
 
 #Acheron Features:
 1) Walk the PEB to retrieve the base address of in-memory ntdll.dll
