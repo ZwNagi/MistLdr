@@ -18,7 +18,8 @@ Usage :
 - paste shellcode.bin in same folder with aes.py and execute ```python3 aes.py``` it will generate keys and encrypted file. Replace keys in source code.
 - Build Exe ``` go build``` build Dll ```go build -buildmode=c-shared -o MistLdr.dll``` i did also used garble to produce obfuscated Dll or EXE ```garble build -buildmode=c-shared -o MistLdr.dll```
 
-Use Below Config To Generate raw shellcode:
+Use Below Config To Generate raw shellcode!
+
 ![](https://raw.githubusercontent.com/ZwNagi/MistLdr/refs/heads/main/assets/cobaltstrike.png)
 
 Sophos XDR:
